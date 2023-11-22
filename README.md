@@ -15,8 +15,7 @@ Hari ini kita akan membuat aplikasi perpesanan/obrolan #ui menggunakan #flutter 
 ► Layar Pesan
 ► Panggilan Audio
 ► Panggilan Video
-► Kontak
-► Cari Kontak
+► Kontak► Cari Kontak
 ► Riwayat Panggilan
 ► Cari di riwayat Panggilan
 ► Layar Profil
