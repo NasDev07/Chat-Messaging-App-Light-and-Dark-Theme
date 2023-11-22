@@ -24,7 +24,6 @@ Hari ini kita akan membuat aplikasi perpesanan/obrolan #ui menggunakan #flutter 
 ### Aplikasi Obrolan/Perpesanan UI Akhir Tema Terang dan Gelap
 
 ![Preview](/gif.gif)
-![Preview](/ui_kit.gif)
 
 ![App UI](/ui.png)
 ![App UI](/chat_kit.png)
