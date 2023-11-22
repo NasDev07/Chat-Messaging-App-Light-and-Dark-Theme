@@ -1,36 +1,28 @@
-# Chat/Messaging App Light and Dark Theme - Flutter UI
+# Aplikasi Obrolan/Perpesanan Tema Terang dan Gelap - UI Flutter
 
-## [Watch it on YouTube](https://youtu.be/uiJF-ShOLyo)
+Hari ini kita akan membuat aplikasi perpesanan/obrolan #ui menggunakan #flutter yang menjalankan perangkat Android dan iOS juga memiliki tema gelap dan terang. Kami membuat total 4 layar yang semuanya mendukung Tema Gelap dan Tema Terang. Pertama, kami merancang layar selamat datang yang berisi gambar dengan tag line juga memiliki tombol lewati. Setelah pengguna menekan, pengguna akan berpindah ke layar Masuk atau Daftar. Dua layar terakhir adalah layar utama, Layar Obrolan menampilkan daftar orang yang mengobrol dengan Anda. Di layar pesan akhir yang mendukung pesan teks, pesan audio, dan pesan video.
 
-## [Complete Source Code (Patreon only)](https://bit.ly/3n5mdwS)
+**UI Lengkap Berisi:**
 
-**Packages we are using:**
+► Layar Pembuka
+► Layar Selamat Datang
+► Masuk & Daftar
+► Validasi Telepon (OTP)
+► Lupa Kata Sandi
+► Ubah Kata Sandi
+► Layar Obrolan
+► Cari Obrolan
+► Layar Pesan
+► Panggilan Audio
+► Panggilan Video
+► Kontak
+► Cari Kontak
+► Riwayat Panggilan
+► Cari di riwayat Panggilan
+► Layar Profil
+► Sunting Profil
 
-- goole_fonts: [link](https://pub.dev/packages/google_fonts)
-
-Today we gonna build messing/chat app #ui using #flutter that runs both Android and iOS devices also has a dark and light theme. We create in total 4 screens all of that support both Dark Theme and Light Theme. At first, we design a welcome screen that contains an image with a tag line also has a skip button. Once the user press, its transfers to the Sign-in or Sign-up screen. The last two screens are the main screen, Chats screens it shows the list of people you are chated with. At the end message screen which support text message, audio message, and video messages.
-
-**Complete UI Contains:**
-
-► Splash Screen
-► Welcome Screen
-► Sign in & Sign up
-► Phone Validation (OTP)
-► Forget Password
-► Change Password
-► Chats Screen
-► Search Chats
-► Message Screen
-► Audio Call
-► Video Call
-► Contacts
-► Search Contacts
-► Call History
-► Search on Call history
-► Profile Screen
-► Edit Profile
-
-### Chat/Messaging App Light and Dark Theme Final UI
+### Aplikasi Obrolan/Perpesanan UI Akhir Tema Terang dan Gelap
 
 ![Preview](/gif.gif)
 ![Preview](/ui_kit.gif)
